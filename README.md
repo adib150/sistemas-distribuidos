@@ -8,4 +8,6 @@ designar uma sala com um jogo da velha para os dois clientes competirem.
 Utilizacao: 
 -Sera utilizado TCP/IP para impossibilitar perca de jogadas
 
-
+Lista de Testes
+Conseguir que varios clientes consigam acessar o servidor e este criar varias salas.
+Verificar funcionalidades do sistema, ou seja, se tudo esta funcionando conforme planejado.
